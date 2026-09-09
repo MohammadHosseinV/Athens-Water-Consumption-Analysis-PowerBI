@@ -90,7 +90,7 @@ GROUP BY
     AreaEnglish,
     Zone,
     ConsumptionMonth
-HAVING COUNT(*) > 1;
+HAVING COUNT(*) > 1
 ) x;
 
 --And
@@ -111,7 +111,7 @@ GROUP BY
     AreaEnglish,
     Zone,
     ConsumptionMonth
-HAVING COUNT(*) > 1;
+HAVING COUNT(*) > 1
 ) x;
 
 
