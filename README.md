@@ -5,7 +5,7 @@ EYDAP urban water consumption data.
 
 ## Project Status
 
-🚧 Currently in progress
+ Currently in progress
 
 Current phase:
 Data Understanding & Grain Investigation
