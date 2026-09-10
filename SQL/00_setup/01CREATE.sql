@@ -1,0 +1,8 @@
+CREATE DATABASE AthensWater_RAW;
+GO
+CREATE DATABASE AthensWaterDW;
+GO
+CREATE SCHEMA stg;
+GO
+
+
