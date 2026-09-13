@@ -143,7 +143,6 @@ The model will be finalized after validation of the analytical grain and geograp
 ## Current Limitations
 
 - The final analytical grain is still under validation
-- The aggregation behavior of `NumberOfConnections` requires confirmation
 - Postal code does not uniquely identify an area
 - Geographic and population enrichment has not been finalized
 - The analytical model and Power BI report are not yet complete
