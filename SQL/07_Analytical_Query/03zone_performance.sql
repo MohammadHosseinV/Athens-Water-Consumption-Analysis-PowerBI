@@ -1,7 +1,3 @@
-/*==============================================================
-  Analytical Query 03
-  Zone Performance for the Entire Analysis Period
-==============================================================*/
 
 ;WITH MonthlyZone AS
 (
